@@ -17,6 +17,7 @@
 5. **Папка target/** - собирается автоматически при компиляции
 
 Запуск приложение
-   **mvn exec:java -Dexec.mainClass="org.example.Main"**
+   
+1)**mvn exec:java -Dexec.mainClass="org.example.Main"**
 
-**mvn test**
+2)**mvn test**
