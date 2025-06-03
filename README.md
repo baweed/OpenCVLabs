@@ -18,4 +18,5 @@
 
 Запуск приложение
    **mvn exec:java -Dexec.mainClass="org.example.Main"**
-   **mvn test**
+
+**mvn test**
